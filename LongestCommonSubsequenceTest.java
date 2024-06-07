@@ -12,10 +12,10 @@ public class LongestCommonSubsequenceTest {
         LongestCommonSubsequence lcs = new LongestCommonSubsequence();
 
         // Input strings
-        String string1 = "ABCBtyfuygDAB";
-        String string2 = "BjygDCABA";
+        String string1 = "ABuygDAB";
+        String string2 = "BCABA";
 
-        // Expected result
+        // Expectrewwdf fre
         String expectedLCS = "BCBA";
 
         // Calling the method under test
