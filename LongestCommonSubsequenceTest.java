@@ -12,8 +12,8 @@ public class LongestCommonSubsequenceTest {
         LongestCommonSubsequence lcs = new LongestCommonSubsequence();
 
         // Input strings
-        String string1 = "ABCBDAB";
-        String string2 = "BDCABA";
+        String string1 = "ABCBtyfuygDAB";
+        String string2 = "BjygDCABA";
 
         // Expected result
         String expectedLCS = "BCBA";

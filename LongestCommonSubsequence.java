@@ -7,9 +7,9 @@ public class LongestCommonSubsequence {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter the first Word:");
+        System.out.print("Enter thejygiyg uygygtyg first Word:");
         String str1 = input.nextLine();
-        System.out.print("Enter the second Word:");
+        System.out.print("Enter the seconuyguyg igiiuy iuyhd Word:");
         String str2 = input.nextLine();
 
         String lcs = findLCS(str1, str2);
